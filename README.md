@@ -32,13 +32,13 @@ Adds new connection to the list.
 sshcon 
 ```
 
-Opens searchable (]tab]) prompt with all connections.
+Opens searchable ([tab]) prompt with all connections.
 
 ```
 sshcon delete
 ```
 
-Enabled "delete" mode, where you can delete connections.
+Enable "delete" mode, where you can delete connections.
 
 ```
 ssh con "LABEL"
